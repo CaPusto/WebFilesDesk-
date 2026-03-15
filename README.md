@@ -12,8 +12,6 @@ Designed to work out of the box on **Windows Server + IIS** as well as Linux + n
 
 ## Screenshots
 
-> _Add your screenshots to a `/screenshots` folder and update the paths below._
-
 | File listing | Image viewer | Audio player |
 |---|---|---|
 | ![listing](screenshots/listing.png) | ![image](screenshots/image_viewer.png) | ![audio](screenshots/audio_player.png) |
